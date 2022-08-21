@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tutorial retrofit</string>
+    <string name="title">Title</string>
+    <string name="body">This is Body Text</string>
+</resources>
